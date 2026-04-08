@@ -1,0 +1,19 @@
+# Core Frameworks & Machine Learning
+torch==2.10.0
+scikit-learn==1.6.1
+scipy==1.16.3
+
+# Network Analysis
+networkx==3.6.1
+ndlib==5.1.1
+python-louvain
+
+# Dimensionality Reduction & Visualization
+umap-learn==0.5.11
+matplotlib
+adjustText
+
+# Data Manipulation
+pandas
+numpy
+openpyxl
