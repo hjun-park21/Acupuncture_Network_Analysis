@@ -5,7 +5,6 @@ scipy==1.16.3
 
 # Network Analysis
 networkx==3.6.1
-ndlib==5.1.1
 python-louvain
 
 # Dimensionality Reduction & Visualization
