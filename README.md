@@ -19,7 +19,7 @@ To ensure maximum reproducibility and logical flow, the analysis is divided into
 
 ##  Environment Setup
 
-All analyses were conducted in **Python 3.12**. We strongly recommend using a virtual environment. To install the exact dependencies required to reproduce this study, run the following command:
+All analyses were conducted in **Python 3.12**. 
 
 ```bash
 pip install -r requirements.txt
