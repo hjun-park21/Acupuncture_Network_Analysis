@@ -1,18 +1,21 @@
-# Core Frameworks & Machine Learning
+# Reproducible environment for acupoint network analysis
+# Python 3.12.13
+
+# Core ML
 torch==2.10.0
 scikit-learn==1.6.1
 scipy==1.16.3
 
-# Network Analysis
+# Graph analysis
 networkx==3.6.1
-python-louvain
+python-louvain==0.16
 
-# Dimensionality Reduction & Visualization
+# Embedding / Visualization
 umap-learn==0.5.11
-matplotlib
+matplotlib==3.10.0
 adjustText
 
-# Data Manipulation
-pandas
-numpy
-openpyxl
+# Data processing
+pandas==2.2.2
+numpy==2.0.2
+openpyxl==3.1.5
